@@ -34,4 +34,7 @@ Sales and solutions teams spending evenings writing proposals.
 - [ai-contract-reviewer](https://github.com/Zion-support/ai-contract-reviewer) — review before signing: https://ziontechgroup.com/ai-contract-reviewer/
 
 ---
+
+📓 Category: [Sales Pipeline & Revenue AI](https://github.com/Zion-support/zion-network/blob/main/network/sales-pipeline-ai.md) · 📣 Spotlight: [Sales Pipeline & Revenue AI suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/sales-pipeline-ai.md) · 📇 Master index: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+
 © 2026 Zion Tech Group · https://ziontechgroup.com/
